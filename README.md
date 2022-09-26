@@ -1,1 +1,1 @@
-# learngit_dup
+# LearnGit_dup
