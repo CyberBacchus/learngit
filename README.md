@@ -1,2 +1,2 @@
 # LearnGit_dup
-### This is just a nano editor test.
+### This is a nano editor test.
